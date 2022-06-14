@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CarDatabase", "CarDatabase\CarDatabase.sqlproj", "{67E1D735-67B3-4924-A105-27257FA3166F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E1D735-67B3-4924-A105-27257FA3166F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E1D735-67B3-4924-A105-27257FA3166F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E1D735-67B3-4924-A105-27257FA3166F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67E1D735-67B3-4924-A105-27257FA3166F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E1D735-67B3-4924-A105-27257FA3166F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E1D735-67B3-4924-A105-27257FA3166F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8620FA6-99F7-433A-8470-20139D616682}
+	EndGlobalSection
+EndGlobal

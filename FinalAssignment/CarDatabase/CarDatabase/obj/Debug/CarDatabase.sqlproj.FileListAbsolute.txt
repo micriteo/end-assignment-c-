@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#\FinalAssignment\FinalAssignment\CarDatabase\CarDatabase\bin\Debug\CarDatabase.dacpac
+C:\Users\User\Documents\C#\FinalAssignment\FinalAssignment\CarDatabase\CarDatabase\bin\Debug\CarDatabase.dll
+C:\Users\User\Documents\C#\FinalAssignment\FinalAssignment\CarDatabase\CarDatabase\bin\Debug\CarDatabase.pdb
+C:\Users\User\Documents\C#\FinalAssignment\FinalAssignment\CarDatabase\CarDatabase\obj\Debug\CarDatabase.sqlproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\FinalAssignment\FinalAssignment\CarDatabase\CarDatabase\obj\Debug\CarDatabase.dll
+C:\Users\User\Documents\C#\FinalAssignment\FinalAssignment\CarDatabase\CarDatabase\obj\Debug\CarDatabase.pdb
